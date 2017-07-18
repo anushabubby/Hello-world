@@ -1,0 +1,17 @@
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\ReadMp3Files.exe.config
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\ReadMp3Files.exe
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\ReadMp3Files.pdb
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\obj\Debug\ReadMp3Files.csprojResolveAssemblyReference.cache
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\obj\Debug\ReadMp3Files.Form1.resources
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\obj\Debug\ReadMp3Files.Properties.Resources.resources
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\obj\Debug\ReadMp3Files.csproj.GenerateResource.Cache
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\obj\Debug\ReadMp3Files.exe
+c:\users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\obj\Debug\ReadMp3Files.pdb
+C:\Users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\taglib-sharp.dll
+C:\Users\venka\onedrive\documents\visual studio 2017\Projects\ReadMp3Files\ReadMp3Files\bin\Debug\policy.2.0.taglib-sharp.config
